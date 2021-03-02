@@ -75,14 +75,14 @@ You will present and discuss ideas for future research directions in AI and ethi
 - 12 in-class discussion (see schedule)
 - Organize a group of 5~6 people, and have time to present what you read and discuss (you can use Korean if everyone is comfortable with Korean)
 - All groups should submit their result at the end of class.
-- See the details on this [page](https://github.com/uilab-kaist/cs774-ethics-spring-2021/wiki/Discussion)
+- See the details on this [page](https://uilab-kaist.github.io/cs774-ethics-spring-2021/discussion)
 
 ### Team Projects
 
 - Team project will be a major part of the class, especially during the second half
 - Projects will be basically replication/modifications of recent research in bias in AI/ML
 - More details will be described in the document below
-- [https://github.com/uilab-kaist/cs774-ethics-spring-2021/wiki/Project](https://github.com/uilab-kaist/cs774-ethics-spring-2021/wiki/Project)
+- [https://uilab-kaist.github.io/cs774-ethics-spring-2021/project](https://uilab-kaist.github.io/cs774-ethics-spring-2021/project)
 
 ## Evaluation(Subject to change)
 
