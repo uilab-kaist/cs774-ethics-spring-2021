@@ -1,24 +1,24 @@
 **This document is not yet finalized!**
 
-# cs774-ethics-fall-2020
+# cs774-ethics-spring-2021
 
 > Please send email to cs774.ethics.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
 
 ## Announcement
-Join slack channel: [Invitation Link](https://join.slack.com/t/cs774aiethics2020/shared_invite/zt-hcfgmqj5-QIdtCT7JfyT4vxGlOcqHZA)
+Join slack channel: [Invitation Link (TBD)]()
 
 ## Teaching Staff
 
 - Lecturer: [Alice Oh](https://aliceoh9.github.io/)
-- TA: Jaimeen Ahn
+- TA: Jungkook Park
 - Contact: cs774.ethics.uilab@gmail.com
 
 **Please send email to cs774.ethics.uilab@gmail.com. We will not consider any class-related email arriving in our personal accounts. When you send emails, please put "[CS774]" to the title. (e.g., [CS774] Do we have a class on MM/DD?)**
 
 ## Time & Location
-- Mon/Wed 13:00 - 14:30
-- <s>#2111, E3-1 (Information Science and Electronics Bldg.)</s> [ZOOM](https://kaist.zoom.us/j/97882687849?pwd=RHgzdE85SGVYaGxxTDd1L0R3OWFrUT09)
-- If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm
+- Mon/Wed 10:30 - 12:00
+- [ZOOM (TBD)]()
+<!-- - If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm -->
 
 ## Prerequisites  
 
@@ -45,15 +45,18 @@ Join slack channel: [Invitation Link](https://join.slack.com/t/cs774aiethics2020
 | 15 | 12/07, 12/09 |           -           |                                            |     No Class     |                          |
 |   16  | 12/14, 12/16              |           -           | Project presentation                                                       |       | Final presentation Peer-review |
 
+
+
 ## Course
 
 The course consists of lectures and discussions.
 
 ### Special Lecture
+
 Experts from around the world in AI and Ethics will give special virtual lectures.  
 Most of the lectures will be moderated by the main lecturer (Alice Oh) in the form of questions and answers about the lecturers’ publications.  
 Because of the time difference, some lectures will be pre-recorded.  
-Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Dirk Hovy(Bocconi University)](http://www.dirkhovy.com) on the topic of Predictive Bias in NLP, [Kyunghyun Cho (New York University)](https://kyunghyuncho.me/), and additional guests will be added.
+<!-- Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Dirk Hovy(Bocconi University)](http://www.dirkhovy.com) on the topic of Predictive Bias in NLP, [Kyunghyun Cho (New York University)](https://kyunghyuncho.me/), and additional guests will be added. -->
 
 ### Reading
 
