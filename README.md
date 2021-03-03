@@ -30,7 +30,7 @@ Join slack channel: [Invitation Link (TBD)]()
 |  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | [03/03](contents/2021_cs774_lecture1.pdf) | Lecture 1                       | Introduction                                  | [Google Survey (~23:59 03/03)](https://forms.gle/URPwB6ZcpcgZXpMB7) | |
-|   2   | 03/08, 03/10                              | Discussion <br/> Discussion     | Bias of AI/ML Systems                         | [Reading Material(~10:30 03/08)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Part I Only**) <br> 03/12 Guest Lecture 9:30am <br/> Been Kim | |
+|   2   | 03/08, 03/10                              | Discussion <br/> Discussion     | Bias of AI/ML Systems                         | [Reading Material(~10:30 03/08)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Part I Only**) <br> 9:30 AM, 03/12 Guest Lecture by Been Kim | |
 |   3   | 03/15, 03/17                              | Discussion 1 <br/> Lecture 2    | Bias on AI/ML Systems <br/>   Societal Impact | | |
 |   4   | 03/22, 03/24                              | Discussion 2 <br/> Lecture 3    | Societal Impact <br/> AI for Social Good      | | |
 |   5   | 03/29, 03/31                              | Project <br/> -                 | Societal Impact / Project Description         | | Introduction |
