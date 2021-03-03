@@ -18,7 +18,7 @@ Join slack channel: [Invitation Link (TBD)]()
 ## Time & Location
 - Mon/Wed 10:30 - 12:00
 - ~KAIST E3-1 2443~
-- [ZOOM (TBD)]()
+- [ZOOM Meeting](https://kaist.zoom.us/j/86169039980?pwd=VFlWMk5IY0VIbVZ6cTZjU2RYSWUzZz09#success)
 - If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm
 
 ## Prerequisites  
@@ -30,7 +30,7 @@ Join slack channel: [Invitation Link (TBD)]()
 |  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | [03/03](contents/2021_cs774_lecture1.pdf) | Lecture 1                       | Introduction                                  | [Google Survey (~23:59 03/03)](https://forms.gle/URPwB6ZcpcgZXpMB7) | |
-|   2   | 03/08, 03/10                              | Discussion <br/> Discussion     | Bias of AI/ML Systems                         | [Reading Material(~10:30 03/08)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Part I Only**) <br> 9:30 AM, 03/12 Guest Lecture by Been Kim | |
+|   2   | 03/08, 03/10                              | Discussion <br/> Discussion     | Bias of AI/ML Systems                         | [Reading Material (~10:30 03/08)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Part I Only**) <br> 9:30 AM, 03/12 Guest Lecture by Been Kim | |
 |   3   | 03/15, 03/17                              | Discussion 1 <br/> Lecture 2    | Bias on AI/ML Systems <br/>   Societal Impact | | |
 |   4   | 03/22, 03/24                              | Discussion 2 <br/> Lecture 3    | Societal Impact <br/> AI for Social Good      | | |
 |   5   | 03/29, 03/31                              | Project <br/> -                 | Societal Impact / Project Description         | | Introduction |
@@ -89,13 +89,12 @@ You will present and discuss ideas for future research directions in AI and ethi
 
  **If you actively and honestly participate in every discussion and do the project you will get at least B- (Project will be be a way to divide A+~B- in this case)**
 
-* 10 In-Class Discussion : 40%
+* 10 In-Class Discussion : 50%
 
 * Project : 50%
   
     **Note that any team may get up to -25%p for project score if there is a serious problem with teamwork.**
 
-* Peer grading : 10%
 
 ## Additional references
 
