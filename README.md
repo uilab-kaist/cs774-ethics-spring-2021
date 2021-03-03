@@ -17,8 +17,9 @@ Join slack channel: [Invitation Link (TBD)]()
 
 ## Time & Location
 - Mon/Wed 10:30 - 12:00
+- ~KAIST E3-1 2443~
 - [ZOOM (TBD)]()
-<!-- - If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm -->
+- If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm
 
 ## Prerequisites  
 
@@ -28,13 +29,13 @@ Join slack channel: [Invitation Link (TBD)]()
 
 |  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | [03/03](contents/cs774_lecture_1_20200907.pdf) | Lecture 1                       | Introduction                                  | [Google Survey](https://forms.gle/URPwB6ZcpcgZXpMB7) <br/> [Reading Material(~10:00 03/03)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Only chapter 1**) | |
-|   2   | 03/08, 03/10                              | Discussion <br/> Discussion     | Bias of AI/ML Systems                         | | Team matching |
+|   1   | [03/03](contents/2021_cs774_lecture1.pdf) | Lecture 1                       | Introduction                                  | [Google Survey (~23:59 03/03)](https://forms.gle/URPwB6ZcpcgZXpMB7) | |
+|   2   | 03/08, 03/10                              | Discussion <br/> Discussion     | Bias of AI/ML Systems                         | [Reading Material(~10:30 03/08)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Part I Only**) <br> 03/12 Guest Lecture 9:30am <br/> Been Kim | |
 |   3   | 03/15, 03/17                              | Discussion 1 <br/> Lecture 2    | Bias on AI/ML Systems <br/>   Societal Impact | | |
 |   4   | 03/22, 03/24                              | Discussion 2 <br/> Lecture 3    | Societal Impact <br/> AI for Social Good      | | |
 |   5   | 03/29, 03/31                              | Project <br/> -                 | Societal Impact / Project Description         | | Introduction |
-|   6   | 04/05, 04/07                              | Discussion 3 <br/> Lecture 4    | AI for Social Good                            | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson | |
-|   7   | 04/12, 04/14                              | Discussion 4 <br/> Lecture 5    | AI for Social Good                            | 10/14 Guest Lecture 9:00am <br/> Kyunghyun Cho | |
+|   6   | 04/05, 04/07                              | Discussion 3 <br/> Lecture 4    | AI for Social Good                            | | |
+|   7   | 04/12, 04/14                              | Discussion 4 <br/> Lecture 5    | AI for Social Good                            | | |
 |   8   | 04/19, 04/21                              | Presentation <br/> -            | Proposal <br/> Mid-term                       | | Proposal, Peer-review |
 |   9   | 04/26, 04/28                              | Lecture 6 <br/> Discussion 5    | NLP for detecting Bias                        | | |
 |   10  | 05/03, 05/05                              | Discussion 6 <br/> Lecture 7    | NLP for detecting Bias                        | 05/05 Holiday | |
