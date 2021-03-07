@@ -34,17 +34,17 @@ Join slack channel: [Invitation Link (TBD)]()
 |   3   | 03/15, 03/17                              | Discussion 1 <br/> Lecture 2    | Bias on AI/ML Systems <br/>   Societal Impact | | |
 |   4   | 03/22, 03/24                              | Discussion 2 <br/> Lecture 3    | Societal Impact <br/> AI for Social Good      | | |
 |   5   | 03/29, 03/31                              | Project <br/> -                 | Societal Impact / Project Description         | | Introduction |
-|   6   | 04/05, 04/07                              | Discussion 3 <br/> Lecture 4    | AI for Social Good                            | | |
+|   6   | 04/07                              | Discussion 3 <br/> Lecture 4    | AI for Social Good                            | | |
 |   7   | 04/12, 04/14                              | Discussion 4 <br/> Lecture 5    | AI for Social Good                            | | |
-|   8   | 04/19, 04/21                              | Presentation <br/> -            | Proposal <br/> Mid-term                       | | Proposal, Peer-review |
+|   8   | 04/19, 04/21                              | No Class (Midterm)            | Proposal <br/> Mid-term                       | | Proposal, Peer-review |
 |   9   | 04/26, 04/28                              | Lecture 6 <br/> Discussion 5    | NLP for detecting Bias                        | | |
-|   10  | 05/03, 05/05                              | Discussion 6 <br/> Lecture 7    | NLP for detecting Bias                        | 05/05 Holiday | |
+|   10  | 05/03                             | Discussion 6 <br/> Lecture 7    | NLP for detecting Bias                        | 05/05 Holiday | |
 |   11  | 05/10, 05/12                              | Lecture 8 <br/> Discussion 7    | AI as Big Brother                             | | |
 |   12  | 05/17, 05/19                              | Presentation <br/> Discussion 8 | Progress Update <br/> AI as Big Brother       | 05/19 Holiday | Progress Update, Peer-review |
 |   13  | 05/24, 05/26                              | Lecture 9 <br/> Discussion 9    | Interpretability and Fairness                 | | |
 |   14  | 05/31, 06/02                              | Discussion 10 <br/> Lecture 7   | Interpretability and Fairness                 | | |
-|   15  | 06/07, 06/09                              | -                               |                                               | | |
-|   16  | -                                         | -                               | Project presentation                          | | Final presentation Peer-review |
+|   15  | 06/07, 06/09                              | Project presentation                               |                                               | | |
+|   16  | 06/14, 06/16                                         | No Class (Final Exam)                               |                           | | Final Report Peer-review |
 
 
 
