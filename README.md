@@ -35,9 +35,9 @@ Join slack channel: [Invitation Link (TBD)]()
 |   4   | 03/22, 03/24                              | Discussion  <br/> Discussion    | Deepfake and Generative Models      | | |
 |   5   | 03/29, 03/31                              | Discussion  <br/> Discussion     | Deepfake and Generative Models         | | Choose Teams |
 |   6   | 04/05, 04/07                              | Discussion  <br/> Discussion | Privacy                             | | |
-|   7   | 04/12, 04/14                              | Discussion  <br/> Discussion | Privacy                            | | |
+|   7   | 04/12, 04/14                              | Discussion  <br/> Discussion | Privacy / Societal Impact                            | | |
 |   8   | 04/19, 04/21                              | No Class (Midterm)            | Proposal <br/> Mid-term                       | | Proposal, Peer-review |
-|   9   | 04/26, 04/28                              | Discussion  <br/> Discussion  | NLP for detecting Bias                        | | |
+|   9   | 04/26, 04/28                              | Discussion  <br/> Discussion  | Societal Impact                        | | |
 |   10  | 05/03                             | Discussion     | Interpretability and Fairness                         | 05/05 Holiday | |
 |   11  | 05/10, 05/12                              | Discussion <br/> Guest Lecture    | Interpretability and Fairness <br/> Guest Lecture (Been Kim)                             | | |
 |   12  | 05/17, 05/19                              | Presentations <br/> Discussion  | Progress Update <br/>        | 05/19 Holiday | Progress Update, Peer-review |
