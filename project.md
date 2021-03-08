@@ -1,19 +1,19 @@
 # CS774 team project
 
 ## Schedule
-- Week  5 (09/28): **Introduction, Team matching**
-- Week  8 (10/19, 10/22): **Project proposal, Peer grading**
-  - Proposal submission deadline: **23:59, October 19, 2020**
-  - Peer grading: **23:59, October 25, 2020**
-- Week 12 (11/16, 11/18): **Progress Update, Peer grading**
+- Week  5 (03/29): **Team matching, Topoic exploration**
+- Week  7 (4/14): **Project proposal, Peer grading**
+  - Proposal slide submission deadline: **23:59, April 13, 2020**
   - Peer grading: Real-time
-- Week 16 (12/14, 12/16): **Final presentation, Final report, Peer grading, Teamwork report**
+- Week 12 (5/17): **Progress Update, Peer grading**
+  - Peer grading: Real-time
+- Week 16 (6/7, 6/9): **Final presentation, Final report, Peer grading, Teamwork report**
 
 ## Goal
-This project aims to replicate an existing paper and then make meaningful improvements/extensions in terms of bias in machine learning model, features, datasets, evaluation metrics or baseline comparisons.
+This project aims to replicate an existing paper on ethical issues in machine learning, and then make meaningful improvements/extensions in terms of research question, machine learning model, features, datasets, or evaluation metrics.
 
 ## Teams
-This is a team-based project. Please form teams of **2 students** by **28 Sep**. If you need help forming teams, advertise yourself and find your teammate in **KLMS # proj-team-matching**.
+This is a team-based project. Please form teams of **2 students** by **March 29**. If you need help forming teams, advertise yourself and find your teammate in **KLMS # proj-team-matching**.
 
 ## Project Grading (50% of Course Grade)
 - **Proposal presentation**: 5%
@@ -23,11 +23,11 @@ This is a team-based project. Please form teams of **2 students** by **28 Sep**.
 - **Peer grading**: 10%
 - **Teamwork report**: 5%
 
-**Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.** That means, the project grade could be 25/50, even if all presentation and report scores are perfect. This can apply to an individual student, rather than the entire team.
+**Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.** That means, the project grade could be 25/50, even if all presentation and report scores are perfect. This can apply to an individual student, or to the entire team.
 
 
 ## Deliverables
-**All project team members should present an important part in the presentation (speak for at least one minute each)**. You should present your work in presentation session. The detailed instruction will be noticed later.
+**All project team members should present an important part in the presentation (speak for at least one minute each)**. You should present your work in presentation session. 
 - **Proposal presentation**: 5-8 minute presentation
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
@@ -36,7 +36,12 @@ This is a team-based project. Please form teams of **2 students** by **28 Sep**.
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Instruction
-**Choose a paper in reading list.** 
+**Choose a paper with the following criteria.** 
+- Recent paper published in 2018 or later
+- Technical paper that includes a machine learning model and a medium- to large-sized dataset
+- Covering any of the following topics: bias, fairness, social impact, interpretability, privacy, deepfake/generative modeling, social good
+- From ML/NLP/AI conferences including ACL, EMNLP, NAACL, Coling, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ICML, ICLR
+- If your paper deviates from the above criteria, or if your project is not based on replication of a previous paper, please email the teaching staff
 Based on the paper, there are two options you can choose:
 1. Replicate their method and apply to your own research. If there is a bias in your work, you have to think about how to reduce it.
 2. Replicate their method and improve it. You have to find problem of existing work and try to alleviate it.
@@ -77,9 +82,9 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 ## Peer Grading
 - We will probably use Google form (TBD) and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
-  - 6 proposal presentations
-  - 6 progress presentations
-  - 6 final presentations & reports
+  - Proposal presentations
+  - Progress presentations
+  - Final presentations & reports
 
 ## Teamwork Report
 - We will use Google form
