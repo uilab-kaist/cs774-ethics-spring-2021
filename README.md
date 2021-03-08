@@ -40,7 +40,7 @@ Join slack channel: [Invitation Link (TBD)]()
 |   9   | 04/26, 04/28                              | Discussion  <br/> Discussion  | Societal Impact                        | | |
 |   10  | 05/03                             | Discussion     | Interpretability and Fairness                         | 05/05 Holiday | |
 |   11  | 05/10, 05/12                              | Discussion <br/> Guest Lecture    | Interpretability and Fairness <br/> Guest Lecture (Been Kim)                             | | |
-|   12  | 05/17, 05/19                              | Presentations <br/> Discussion  | Progress Update <br/>        | 05/19 Holiday | Progress Update, Peer-review |
+|   12  | 05/17                              | Project presentations  | Progress Update <br/>        | 05/19 Holiday | Progress Update, Peer-review |
 |   13  | 05/24, 05/26                              | Discussion <br/> Discussion     | AI for Social Good                 | | |
 |   14  | 05/31, 06/02                              | Discussion <br/> Guest Lecture  | AI for Social Good                 | | |
 |   15  | 06/07, 06/09                              | Project presentations                               |                                               | | |
