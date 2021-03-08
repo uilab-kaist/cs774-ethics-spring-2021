@@ -42,9 +42,10 @@ This is a team-based project. Please form teams of **2 students** by **March 29*
 - Covering any of the following topics: bias, fairness, social impact, interpretability, privacy, deepfake/generative modeling, social good
 - From ML/NLP/AI conferences including ACL, EMNLP, NAACL, Coling, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ICML, ICLR
 - If your paper deviates from the above criteria, or if your project is not based on replication of a previous paper, please email the teaching staff
-Based on the paper, there are two options you can choose:
-1. Replicate their method and apply to your own research. If there is a bias in your work, you have to think about how to reduce it.
-2. Replicate their method and improve it. You have to find problem of existing work and try to alleviate it.
+
+**Based on the paper, there are two options you can choose:**
+1. Replicate their method and apply it to your own research problem. 
+2. Replicate their method and improve it. You should find a problematic issue of the existing work and try to resolve/alleviate it.
 
 
 ## Project Proposal
