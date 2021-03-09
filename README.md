@@ -28,16 +28,16 @@
 |   2   | 03/08, 03/10                              | Discussion (<a href="https://drive.google.com/file/d/1M-7WLUmd1ySbNiUCUwd8arGQpUDPOq7W/view?usp=sharing">Slides</a>)<br/> Discussion     | Bias of AI/ML Systems                         | [Reading Material (~10:30 03/08)](contents/Z_Big_Datas_Disparate_Impacts.pdf) (**Part I Only**) <br> [<a href="https://www.aclweb.org/anthology/Q18-1041/">Reading for 03/10</a>] | |
 |   3   | 03/15, 03/17                              | Discussion <br/> Guest Lecture  | Bias of AI/ML Systems <br/>    | | |
 |   4   | 03/22, 03/24                              | Discussion  <br/> Discussion    | Bias in NLP & CV      | | |
-|   5   | 03/29, 03/31                              | Discussion  <br/> Discussion    | Deepfake and Generative Models         | | Choose Teams |
-|   6   | 04/05, 04/07                              | Discussion  <br/> Discussion    | Privacy                             | | |
+|   5   | 03/29, 03/31                              | Discussion  <br/> Discussion    | Deepfake, Privacy         | | Choose Teams |
+|   6   | 04/05, 04/07                              | Discussion  <br/> Discussion    | Privacy, Societal Impact                             | | |
 |   7   | 04/12, 04/14                              | Discussion  <br/> Project presentations | Societal Impact / Project Proposals                           | | Proposal, Peer-review|
-|   8   | 04/19, 04/21                              | No Class (Midterm)              | Proposal <br/> Mid-term                       | |  |
-|   9   | 04/26, 04/28                              | Discussion  <br/> Discussion    | Societal Impact                        | | |
+|   8   | 04/19, 04/21                              | No Class (Midterm)              | No Class (Mid-term)                       | |  |
+|   9   | 04/26, 04/28                              | Discussion  <br/> Discussion    | Interpretability and Fairness <br/> AI for Social Good                        | | |
 |   10  | 05/03                                     | No Class     | No Class                         | 05/03 No Class, 05/05 Holiday | |
-|   11  | 05/10, 05/12                              | Discussion <br/> Guest Lecture  | Interpretability and Fairness <br/> Guest Lecture (Been Kim)                             | | |
+|   11  | 05/10, 05/12                              | Discussion <br/> Guest Lecture  | AI for Social Good <br/> Guest Lecture (Been Kim)                             | | |
 |   12  | 05/17                                     | Project presentations  | Progress Update <br/>        | 05/19 Holiday | Progress Update, Peer-review |
-|   13  | 05/24, 05/26                              | Discussion <br/> Discussion     | AI for Social Good                 | | |
-|   14  | 05/31, 06/02                              | Wrap-Up <br/> Guest Lecture  | Wrap-Up <br/> Guest Lecture (Lester Mackey)	| | |
+|   13  | 05/24, 05/26                              | Discussion <br/> Discussion     | Wrap-Up                 | | |
+|   14  | 05/31, 06/02                              | Wrap-Up <br/> Guest Lecture  | Guest Lecture (Lester Mackey)	| | |
 |   15  | 06/07, 06/09                              | Project presentations           |                                               | | |
 |   16  | 06/14, 06/16                              | No Class (Final Exam)           |                           | | Final Report Peer-review |
 
