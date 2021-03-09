@@ -1,5 +1,3 @@
-**This document is not yet finalized!**
-
 # cs774-ethics-spring-2021
 
 > Please send email to cs774.ethics.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
