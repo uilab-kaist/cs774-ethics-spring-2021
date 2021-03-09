@@ -37,7 +37,7 @@
 |   11  | 05/10, 05/12                              | Discussion <br/> Guest Lecture  | Interpretability and Fairness <br/> Guest Lecture (Been Kim)                             | | |
 |   12  | 05/17                                     | Project presentations  | Progress Update <br/>        | 05/19 Holiday | Progress Update, Peer-review |
 |   13  | 05/24, 05/26                              | Discussion <br/> Discussion     | AI for Social Good                 | | |
-|   14  | 05/31, 06/02                              | Discussion <br/> Guest Lecture  | AI for Social Good                 | | |
+|   14  | 05/31, 06/02                              | Discussion <br/> Guest Lecture  | AI for Social Good <br/> Guest Lecture (Lester Mackey)	| | |
 |   15  | 06/07, 06/09                              | Project presentations           |                                               | | |
 |   16  | 06/14, 06/16                              | No Class (Final Exam)           |                           | | Final Report Peer-review |
 
