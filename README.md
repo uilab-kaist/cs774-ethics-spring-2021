@@ -4,7 +4,7 @@
 
 ## Announcement
 
-[20210320] Join slack channel: [Invitation Link](https://join.slack.com/t/kaistcs774eth-0ji8902/shared_invite/zt-o0i6jf02-Cg4RjhN25hohqCsjV0YC_A)
+[2021/03/20] Join slack channel: [Invitation Link](https://join.slack.com/t/kaistcs774eth-0ji8902/shared_invite/zt-o0i6jf02-Cg4RjhN25hohqCsjV0YC_A)
 
 
 ## Teaching Staff
