@@ -4,6 +4,8 @@
 
 ## Announcement
 
+[2021/04/13] Project proposal peer review form: [Link](https://forms.gle/DR8ritP2JAAuRxBF7)
+
 [2021/03/20] Join slack channel: [Invitation Link](https://join.slack.com/t/kaistcs774eth-0ji8902/shared_invite/zt-o0i6jf02-Cg4RjhN25hohqCsjV0YC_A)
 
 
